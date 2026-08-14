@@ -1,0 +1,251 @@
+id_venta,fecha_venta,marca,modelo,precio_usd,region,es_venta_online,tiene_garantia_extendida
+1,2021-03-12,Apple,iPhone 12 Pro,999,Norteamerica,true,false
+2,2022-11-05,Samsung,Galaxy S22 Ultra,1199,Europa,true,true
+3,2023-01-20,Google,Pixel 7 Pro,899,Asia,false,false
+4,2024-05-15,Apple,iPhone 15 Pro Max,1199,Norteamerica,true,true
+5,2021-08-22,Samsung,Galaxy S21+,799,Latinoamerica,false,false
+6,2022-04-10,Xiaomi,12 Pro,999,Asia,true,false
+7,2023-09-30,Apple,iPhone 14 Pro,1099,Europa,true,true
+8,2024-02-14,Samsung,Galaxy S24 Ultra,1299,Norteamerica,true,true
+9,2021-12-01,Google,Pixel 6,599,Norteamerica,true,false
+10,2023-06-18,Apple,iPhone 13,799,Latinoamerica,false,true
+11,2022-07-25,Sony,Xperia 1 IV,1299,Europa,true,false
+12,2024-01-10,Samsung,Galaxy S24+,999,Asia,true,true
+13,2021-11-15,Apple,iPhone 12,699,Norteamerica,false,false
+14,2023-03-05,Google,Pixel 8 Pro,999,Europa,true,true
+15,2022-12-20,Samsung,Galaxy S22,799,Norteamerica,true,false
+16,2024-04-22,Apple,iPhone 15,799,Asia,true,false
+17,2021-09-14,Xiaomi,Mi 11 Ultra,1199,Europa,false,false
+18,2023-11-02,Apple,iPhone 14 Pro Max,1299,Norteamerica,true,true
+19,2022-05-30,Samsung,Galaxy S21 Ultra,1199,Latinoamerica,false,true
+20,2023-08-12,Google,Pixel 7,599,Europa,true,false
+21,2021-02-28,Apple,iPhone 12 Pro Max,1099,Norteamerica,true,false
+22,2024-03-05,Samsung,Galaxy S24,799,Asia,true,true
+23,2022-09-19,Apple,iPhone 13 Pro,999,Europa,true,true
+24,2021-06-07,Google,Pixel 6 Pro,899,Norteamerica,false,false
+25,2023-12-15,Samsung,Galaxy S23 Ultra,1199,Latinoamerica,true,true
+26,2022-01-22,Sony,Xperia 1 III,1099,Europa,true,false
+27,2024-05-01,Apple,iPhone 15 Pro,999,Norteamerica,true,true
+28,2021-10-30,Xiaomi,12S Ultra,1099,Asia,true,false
+29,2023-04-14,Samsung,Galaxy S23+,999,Europa,true,false
+30,2022-08-08,Apple,iPhone 13 Mini,699,Norteamerica,false,false
+31,2021-04-19,Samsung,Galaxy S21,699,Latinoamerica,false,false
+32,2023-10-25,Google,Pixel 8,699,Europa,true,true
+33,2024-02-28,Apple,iPhone 15 Plus,899,Asia,true,false
+34,2022-03-12,Samsung,Galaxy S22+,999,Norteamerica,true,true
+35,2021-07-01,Apple,iPhone 12 Mini,599,Europa,false,false
+36,2023-05-20,Xiaomi,13 Pro,1099,Asia,true,true
+37,2022-10-10,Google,Pixel 7a,499,Norteamerica,true,false
+38,2021-12-25,Apple,iPhone 13 Pro Max,1099,Latinoamerica,false,true
+39,2024-01-05,Samsung,Galaxy S24 Ultra,1299,Europa,true,true
+40,2023-02-15,Apple,iPhone 14,799,Norteamerica,true,false
+41,2021-08-30,Sony,Xperia 5 III,999,Europa,false,false
+42,2022-06-12,Samsung,Galaxy S22 Ultra,1199,Asia,true,true
+43,2023-09-01,Apple,iPhone 14 Plus,899,Norteamerica,true,false
+44,2021-03-15,Google,Pixel 6a,449,Latinoamerica,false,false
+45,2024-04-10,Samsung,Galaxy S23,799,Europa,true,true
+46,2022-11-20,Apple,iPhone 14 Pro,1099,Norteamerica,true,true
+47,2021-05-25,Xiaomi,11T Pro,749,Asia,true,false
+48,2023-07-07,Samsung,Galaxy S23 Ultra,1199,Europa,true,true
+49,2022-02-14,Apple,iPhone 13,799,Norteamerica,true,false
+50,2021-09-30,Google,Pixel 6 Pro,899,Latinoamerica,false,false
+51,2024-03-20,Apple,iPhone 15 Pro Max,1199,Asia,true,true
+52,2022-08-15,Samsung,Galaxy S22,799,Europa,true,false
+53,2023-01-10,Sony,Xperia 1 V,1399,Norteamerica,true,true
+54,2021-11-05,Apple,iPhone 12,699,Asia,false,false
+55,2022-04-25,Google,Pixel 7 Pro,899,Norteamerica,true,true
+56,2023-12-01,Samsung,Galaxy S23+,999,Latinoamerica,false,false
+57,2021-06-18,Apple,iPhone 12 Pro,999,Europa,true,false
+58,2024-05-12,Xiaomi,14 Pro,1099,Asia,true,true
+59,2022-09-30,Apple,iPhone 13 Pro Max,1099,Norteamerica,true,true
+60,2023-03-25,Samsung,Galaxy S22+,999,Europa,true,false
+61,2021-10-12,Google,Pixel 6,599,Asia,false,false
+62,2024-02-01,Apple,iPhone 15,799,Norteamerica,true,false
+63,2022-07-07,Samsung,Galaxy S21 Ultra,1199,Latinoamerica,false,true
+64,2023-11-15,Apple,iPhone 14,799,Europa,true,true
+65,2021-02-14,Xiaomi,11 Ultra,1199,Norteamerica,true,false
+66,2024-04-30,Google,Pixel 8 Pro,999,Asia,true,true
+67,2022-05-12,Apple,iPhone 13,799,Norteamerica,true,false
+68,2023-08-25,Samsung,Galaxy S23,799,Europa,true,false
+69,2021-08-01,Sony,Xperia 5 IV,999,Latinoamerica,false,false
+70,2024-01-20,Apple,iPhone 15 Plus,899,Norteamerica,true,true
+71,2022-03-30,Google,Pixel 7,599,Asia,true,false
+72,2023-10-12,Samsung,Galaxy S23 Ultra,1199,Europa,true,true
+73,2021-04-05,Apple,iPhone 12 Mini,599,Norteamerica,false,false
+74,2023-06-30,Xiaomi,13 Ultra,1299,Asia,true,true
+75,2022-12-15,Apple,iPhone 14 Pro Max,1299,Norteamerica,true,true
+76,2021-07-20,Samsung,Galaxy S21+,799,Europa,false,false
+77,2024-05-05,Google,Pixel 8,699,Norteamerica,true,true
+78,2022-10-25,Apple,iPhone 13 Pro,999,Latinoamerica,false,true
+79,2023-02-28,Samsung,Galaxy S22 Ultra,1199,Asia,true,true
+80,2021-11-20,Apple,iPhone 12 Pro Max,1099,Europa,true,false
+81,2024-03-15,Samsung,Galaxy S24+,999,Norteamerica,true,true
+82,2022-06-30,Sony,Xperia 1 IV,1299,Asia,true,false
+83,2023-09-12,Apple,iPhone 14 Plus,899,Europa,true,false
+84,2021-03-05,Google,Pixel 6a,449,Norteamerica,false,false
+85,2024-04-20,Samsung,Galaxy S24,799,Latinoamerica,true,true
+86,2022-11-12,Apple,iPhone 14 Pro,1099,Norteamerica,true,true
+87,2021-05-15,Xiaomi,11 Pro,899,Europa,false,false
+88,2023-07-30,Samsung,Galaxy S23 Ultra,1199,Asia,true,true
+89,2022-02-28,Apple,iPhone 13,799,Norteamerica,true,false
+90,2021-09-15,Google,Pixel 6 Pro,899,Europa,false,false
+91,2024-03-01,Apple,iPhone 15 Pro,999,Asia,true,true
+92,2022-08-20,Samsung,Galaxy S22,799,Norteamerica,true,false
+93,2023-01-25,Sony,Xperia 5 V,999,Europa,true,true
+94,2021-11-12,Apple,iPhone 12,699,Latinoamerica,false,false
+95,2022-04-15,Google,Pixel 7 Pro,899,Asia,true,true
+96,2023-12-20,Samsung,Galaxy S23+,999,Norteamerica,false,false
+97,2021-06-30,Apple,iPhone 12 Pro,999,Europa,true,false
+98,2024-05-18,Xiaomi,14,899,Asia,true,true
+99,2022-09-15,Apple,iPhone 13 Pro Max,1099,Norteamerica,true,true
+100,2023-03-10,Samsung,Galaxy S22+,999,Latinoamerica,true,false
+101,2021-10-25,Google,Pixel 6,599,Europa,false,false
+102,2024-02-15,Apple,iPhone 15,799,Norteamerica,true,false
+103,2022-07-20,Samsung,Galaxy S21 Ultra,1199,Asia,false,true
+104,2023-11-05,Apple,iPhone 14,799,Europa,true,true
+105,2021-02-20,Xiaomi,11T,599,Norteamerica,true,false
+106,2024-04-15,Google,Pixel 8 Pro,999,Asia,true,true
+107,2022-05-25,Apple,iPhone 13,799,Norteamerica,true,false
+108,2023-08-12,Samsung,Galaxy S23,799,Europa,true,false
+109,2021-08-15,Sony,Xperia 1 III,1099,Latinoamerica,false,false
+110,2024-01-30,Apple,iPhone 15 Plus,899,Norteamerica,true,true
+111,2022-03-05,Google,Pixel 7,599,Asia,true,false
+112,2023-10-20,Samsung,Galaxy S23 Ultra,1199,Europa,true,true
+113,2021-04-12,Apple,iPhone 12 Mini,599,Norteamerica,false,false
+114,2023-06-05,Xiaomi,13,899,Asia,true,true
+115,2022-12-10,Apple,iPhone 14 Pro Max,1299,Norteamerica,true,true
+116,2021-07-15,Samsung,Galaxy S21,699,Europa,false,false
+117,2024-05-01,Google,Pixel 8,699,Norteamerica,true,true
+118,2022-10-05,Apple,iPhone 13 Pro,999,Latinoamerica,false,true
+119,2023-02-14,Samsung,Galaxy S22 Ultra,1199,Asia,true,true
+120,2021-11-30,Apple,iPhone 12 Pro Max,1099,Europa,true,false
+121,2024-03-25,Samsung,Galaxy S24+,999,Norteamerica,true,true
+122,2022-06-15,Sony,Xperia 5 IV,999,Asia,true,false
+123,2023-09-20,Apple,iPhone 14 Plus,899,Europa,true,false
+124,2021-03-25,Google,Pixel 6a,449,Norteamerica,false,false
+125,2024-04-12,Samsung,Galaxy S24,799,Latinoamerica,true,true
+126,2022-11-25,Apple,iPhone 14 Pro,1099,Norteamerica,true,true
+127,2021-05-05,Xiaomi,11,799,Europa,false,false
+128,2023-07-20,Samsung,Galaxy S23 Ultra,1199,Asia,true,true
+129,2022-02-15,Apple,iPhone 13,799,Norteamerica,true,false
+130,2021-09-05,Google,Pixel 6 Pro,899,Europa,false,false
+131,2024-03-12,Apple,iPhone 15 Pro,999,Asia,true,true
+132,2022-08-30,Samsung,Galaxy S22,799,Norteamerica,true,false
+133,2023-01-15,Sony,Xperia 1 V,1399,Europa,true,true
+134,2021-11-25,Apple,iPhone 12,699,Latinoamerica,false,false
+135,2022-04-05,Google,Pixel 7 Pro,899,Asia,true,true
+136,2023-12-10,Samsung,Galaxy S23+,999,Norteamerica,false,false
+137,2021-06-15,Apple,iPhone 12 Pro,999,Europa,true,false
+138,2024-05-20,Xiaomi,14 Ultra,1399,Asia,true,true
+139,2022-09-05,Apple,iPhone 13 Pro Max,1099,Norteamerica,true,true
+140,2023-03-30,Samsung,Galaxy S22+,999,Latinoamerica,true,false
+141,2021-10-15,Google,Pixel 6,599,Europa,false,false
+142,2024-02-20,Apple,iPhone 15,799,Norteamerica,true,false
+143,2022-07-10,Samsung,Galaxy S21 Ultra,1199,Asia,false,true
+144,2023-11-12,Apple,iPhone 14,799,Europa,true,true
+145,2021-02-25,Xiaomi,12,749,Norteamerica,true,false
+146,2024-04-25,Google,Pixel 8 Pro,999,Asia,true,true
+147,2022-05-15,Apple,iPhone 13,799,Norteamerica,true,false
+148,2023-08-20,Samsung,Galaxy S23,799,Europa,true,false
+149,2021-08-25,Sony,Xperia 5 III,999,Latinoamerica,false,false
+150,2024-01-15,Apple,iPhone 15 Plus,899,Norteamerica,true,true
+151,2022-02-05,Samsung,Galaxy S21,699,Asia,true,false
+152,2023-05-12,Apple,iPhone 14,799,Europa,true,true
+153,2021-09-20,Google,Pixel 6a,449,Norteamerica,true,false
+154,2024-01-08,Sony,Xperia 1 V,1399,Norteamerica,true,true
+155,2022-10-30,Xiaomi,12S,899,Latinoamerica,false,false
+156,2023-04-22,Apple,iPhone 14 Pro,1099,Asia,true,true
+157,2021-03-10,Samsung,Galaxy S21 Ultra,1199,Europa,false,true
+158,2024-05-02,Google,Pixel 8a,499,Norteamerica,true,false
+159,2022-07-18,Apple,iPhone 13 Mini,699,Europa,true,false
+160,2023-12-05,Samsung,Galaxy S23,799,Norteamerica,false,false
+161,2021-08-12,Sony,Xperia 5 IV,999,Asia,true,false
+162,2024-02-28,Apple,iPhone 15 Pro,999,Europa,true,true
+163,2022-04-14,Xiaomi,13 Pro,1099,Norteamerica,true,true
+164,2023-10-01,Samsung,Galaxy S23+,999,Latinoamerica,true,false
+165,2021-12-15,Google,Pixel 7,599,Europa,true,false
+166,2024-04-05,Apple,iPhone 15,799,Asia,true,false
+167,2022-09-20,Samsung,Galaxy S22 Ultra,1199,Norteamerica,true,true
+168,2023-02-12,Apple,iPhone 14 Plus,899,Europa,true,false
+169,2021-05-30,Sony,Xperia 1 IV,1299,Asia,true,false
+170,2024-01-25,Google,Pixel 8,699,Norteamerica,true,true
+171,2022-11-15,Samsung,Galaxy S22,799,Latinoamerica,false,false
+172,2023-07-01,Apple,iPhone 13 Pro,999,Europa,true,true
+173,2021-10-05,Xiaomi,12 Pro,999,Norteamerica,true,false
+174,2024-03-20,Samsung,Galaxy S24 Ultra,1299,Asia,true,true
+175,2022-06-12,Apple,iPhone 14,799,Norteamerica,true,false
+176,2023-09-15,Google,Pixel 7a,499,Europa,true,false
+177,2021-04-20,Samsung,Galaxy S21+,799,Latinoamerica,false,false
+178,2024-05-10,Sony,Xperia 5 V,999,Norteamerica,true,true
+179,2022-08-05,Apple,iPhone 13,799,Asia,true,false
+180,2023-11-20,Samsung,Galaxy S23 Ultra,1199,Europa,true,true
+181,2021-02-15,Xiaomi,11,799,Norteamerica,true,false
+182,2024-02-05,Google,Pixel 8 Pro,999,Asia,true,true
+183,2022-05-10,Apple,iPhone 13 Pro Max,1099,Norteamerica,true,true
+184,2023-08-25,Samsung,Galaxy S22+,999,Latinoamerica,true,false
+185,2021-07-30,Sony,Xperia 1 III,1099,Europa,false,false
+186,2024-04-12,Apple,iPhone 15 Plus,899,Asia,true,false
+187,2022-03-15,Google,Pixel 7 Pro,899,Norteamerica,true,true
+188,2023-06-20,Samsung,Galaxy S23+,999,Europa,true,false
+189,2021-11-05,Apple,iPhone 12,699,Latinoamerica,false,false
+190,2024-01-30,Xiaomi,14,899,Norteamerica,true,true
+191,2022-09-12,Samsung,Galaxy S21 Ultra,1199,Asia,false,true
+192,2023-03-25,Apple,iPhone 14 Pro Max,1299,Europa,true,true
+193,2021-06-15,Google,Pixel 6,599,Norteamerica,true,false
+194,2024-03-05,Sony,Xperia 1 V,1399,Asia,true,true
+195,2022-12-25,Apple,iPhone 14,799,Norteamerica,true,false
+196,2023-05-15,Samsung,Galaxy S22,799,Latinoamerica,true,false
+197,2021-09-10,Xiaomi,12S Ultra,1099,Europa,false,false
+198,2024-04-30,Google,Pixel 8,699,Asia,true,true
+199,2022-07-20,Apple,iPhone 13,799,Norteamerica,true,false
+200,2023-10-15,Samsung,Galaxy S23,799,Europa,true,false
+201,2021-03-25,Sony,Xperia 5 III,999,Norteamerica,false,false
+202,2024-05-12,Apple,iPhone 15 Pro Max,1199,Asia,true,true
+203,2022-05-05,Google,Pixel 7,599,Latinoamerica,true,false
+204,2023-09-30,Samsung,Galaxy S23 Ultra,1199,Norteamerica,true,true
+205,2021-08-20,Apple,iPhone 12 Pro,999,Europa,true,false
+206,2024-02-15,Xiaomi,14 Pro,1099,Asia,true,true
+207,2022-10-12,Samsung,Galaxy S22 Ultra,1199,Norteamerica,true,true
+208,2023-04-05,Apple,iPhone 14 Pro,1099,Europa,true,true
+209,2021-05-15,Google,Pixel 6 Pro,899,Latinoamerica,false,false
+210,2024-01-20,Sony,Xperia 5 IV,999,Asia,true,false
+211,2022-02-28,Apple,iPhone 13 Pro,999,Norteamerica,true,true
+212,2023-11-10,Samsung,Galaxy S23+,999,Europa,true,false
+213,2021-12-05,Xiaomi,11T Pro,749,Norteamerica,true,false
+214,2024-04-20,Apple,iPhone 15,799,Asia,true,false
+215,2022-08-15,Google,Pixel 7 Pro,899,Latinoamerica,true,true
+216,2023-07-25,Samsung,Galaxy S22+,999,Europa,true,false
+217,2021-04-30,Apple,iPhone 12,699,Norteamerica,false,false
+218,2024-03-10,Xiaomi,13 Ultra,1299,Asia,true,true
+219,2022-06-20,Samsung,Galaxy S21,699,Norteamerica,false,false
+220,2023-09-05,Apple,iPhone 14 Plus,899,Europa,true,false
+221,2021-07-15,Google,Pixel 6a,449,Latinoamerica,false,false
+222,2024-05-05,Sony,Xperia 1 IV,1299,Norteamerica,true,false
+223,2022-11-30,Apple,iPhone 13 Pro Max,1099,Asia,true,true
+224,2023-03-15,Samsung,Galaxy S23,799,Europa,true,false
+225,2021-10-20,Xiaomi,12,749,Norteamerica,true,false
+226,2024-02-25,Google,Pixel 8 Pro,999,Asia,true,true
+227,2022-05-25,Apple,iPhone 13,799,Norteamerica,true,false
+228,2023-08-10,Samsung,Galaxy S22,799,Latinoamerica,true,false
+229,2021-09-15,Sony,Xperia 5 V,999,Europa,true,true
+230,2024-04-15,Apple,iPhone 15 Pro,999,Asia,true,true
+231,2022-07-05,Google,Pixel 7,599,Norteamerica,true,false
+232,2023-12-20,Samsung,Galaxy S23 Ultra,1199,Europa,true,true
+233,2021-06-25,Apple,iPhone 12 Pro Max,1099,Latinoamerica,false,false
+234,2024-01-10,Xiaomi,14 Ultra,1399,Asia,true,true
+235,2022-09-25,Samsung,Galaxy S22 Ultra,1199,Norteamerica,true,true
+236,2023-04-12,Apple,iPhone 14,799,Europa,true,true
+237,2021-03-05,Google,Pixel 6,599,Norteamerica,true,false
+238,2024-03-25,Sony,Xperia 1 V,1399,Asia,true,true
+239,2022-10-01,Apple,iPhone 13 Mini,699,Norteamerica,false,false
+240,2023-06-30,Samsung,Galaxy S22+,999,Latinoamerica,true,false
+241,2021-08-15,Xiaomi,11 Ultra,1199,Europa,false,false
+242,2024-02-12,Apple,iPhone 15 Plus,899,Asia,true,false
+243,2022-04-20,Google,Pixel 7 Pro,899,Norteamerica,true,true
+244,2023-11-25,Samsung,Galaxy S23+,999,Europa,true,false
+245,2021-05-10,Apple,iPhone 12,699,Latinoamerica,false,false
+246,2024-05-18,Xiaomi,14,899,Asia,true,true
+247,2022-09-05,Samsung,Galaxy S21 Ultra,1199,Norteamerica,false,true
+248,2023-02-15,Apple,iPhone 14 Pro Max,1299,Europa,true,true
+249,2021-11-20,Google,Pixel 6 Pro,899,Norteamerica,false,false
+250,2024-01-05,Sony,Xperia 1 III,1099,Asia,true,false
