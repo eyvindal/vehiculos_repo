@@ -1,2 +1,4 @@
-# smartphones_repo
-Este repositorio contiene EDA y una aplicación web interactiva desarrolladas sobre un conjunto de datos que representa las ventas de los modelos de smartphones de gama alta mas representativos en los ultimos cinco años.
+Este repositorio se ha creado a partir de un set de datos sobre los modelos de vehículo disponibles para la venta de una compraventa de autos usados.
+En el encontrará el set de datos utilziados en formato CSV además de su respectivo EDA y una aplicación web basada en streamlit, este set de datos contiene la información de 51525 vehículos disponibles.
+El EDA se encuentra contenido en un jupiter notebook alojado en la carpeta "notebooks". La aplicacion web se encuentra en la raíz del repositorio en formato py.
+En el cuaderno del EDA se puede visualizar fácilmente la información más relevante del set de datos. La aplicación web permite visualizar do gráficas relevantes sobre la información del odómetro de los ejemplares de la tienda.
