@@ -5,7 +5,7 @@ import streamlit as st
 import plotly.graph_objects as go
 
 #se carga el archivo con los datos
-df = pd.read_csv(r"C:\python\sprint7_tf\smartphones_repo\data\vehicles_us.csv")
+df = pd.read_csv("C:/python/sprint7_tf/smartphones_repo/data/vehicles_us.csv")
 
 #encabezado de la aplicacion
 st.title("Información del odómetro:")
